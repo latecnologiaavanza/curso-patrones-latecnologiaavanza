@@ -11,7 +11,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>principios-solid</module>
-        
+        <module>abstract-factory</module>
+
     </modules>
 
     <properties>
